@@ -1,0 +1,195 @@
+{
+  "project_info": {
+    "project_number": "726475614180",
+    "firebase_url": "https://lista-de-patrimonios.firebaseio.com",
+    "project_id": "lista-de-patrimonios",
+    "storage_bucket": "lista-de-patrimonios.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726475614180:android:c59ccdcb20691d28",
+        "android_client_info": {
+          "package_name": "org.sistemafiesc.lucasftecnico.exemplofirebasenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726475614180-7imhlk92e3q5jtgprufsmglf7to7e2uu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.sistemafiesc.lucasftecnico.exemplofirebasenotification",
+            "certificate_hash": "0cefe6624a9c75ea9af952d4671d09c052023fb1"
+          }
+        },
+        {
+          "client_id": "726475614180-hqgtelghmbos4fv5di8ojmtmmvq1kli7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA78Zz3pMr2tOw3Ka0YcrKJcP1rjh6tKIU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726475614180-hqgtelghmbos4fv5di8ojmtmmvq1kli7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726475614180:android:4a25b93a51e8dace",
+        "android_client_info": {
+          "package_name": "org.sistemafiesc.lucasftecnico.exemplofirebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726475614180-qheih29sdmln6s9dsg3ato25v2adsrav.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.sistemafiesc.lucasftecnico.exemplofirebasestorage",
+            "certificate_hash": "0cefe6624a9c75ea9af952d4671d09c052023fb1"
+          }
+        },
+        {
+          "client_id": "726475614180-hqgtelghmbos4fv5di8ojmtmmvq1kli7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA78Zz3pMr2tOw3Ka0YcrKJcP1rjh6tKIU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726475614180-hqgtelghmbos4fv5di8ojmtmmvq1kli7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726475614180:android:23021319aaf62fd9",
+        "android_client_info": {
+          "package_name": "org.sistemafiesc.lucasftecnico.listadepatrimonios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726475614180-npglr6h0jb2nvnbtovgn769kh06sptf0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.sistemafiesc.lucasftecnico.listadepatrimonios",
+            "certificate_hash": "0cefe6624a9c75ea9af952d4671d09c052023fb1"
+          }
+        },
+        {
+          "client_id": "726475614180-pfc14i806cknkpjncui5e924panqrfva.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.sistemafiesc.lucasftecnico.listadepatrimonios",
+            "certificate_hash": "beb13deb6263cc2b9118aab35cb816d3c8dd84ba"
+          }
+        },
+        {
+          "client_id": "726475614180-hqgtelghmbos4fv5di8ojmtmmvq1kli7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA78Zz3pMr2tOw3Ka0YcrKJcP1rjh6tKIU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726475614180-hqgtelghmbos4fv5di8ojmtmmvq1kli7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726475614180:android:93e5fe3c96a3488b",
+        "android_client_info": {
+          "package_name": "org.sistemafiesc.lucasftecnico.patrimnios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726475614180-uapr768qm14hn4q978t2r8t2p0m759br.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.sistemafiesc.lucasftecnico.patrimnios",
+            "certificate_hash": "0cefe6624a9c75ea9af952d4671d09c052023fb1"
+          }
+        },
+        {
+          "client_id": "726475614180-hqgtelghmbos4fv5di8ojmtmmvq1kli7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA78Zz3pMr2tOw3Ka0YcrKJcP1rjh6tKIU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726475614180-hqgtelghmbos4fv5di8ojmtmmvq1kli7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
